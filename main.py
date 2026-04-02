@@ -1,8 +1,6 @@
 import sys
 
-def main():
-    print(sys.executable)
+print("hello")
+print(sys.executable)
 
-
-if __name__ == "__main__":
-    main()
+# uses default interpreter of system
